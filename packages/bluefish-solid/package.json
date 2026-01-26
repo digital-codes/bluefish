@@ -65,7 +65,7 @@
     "@types/lodash": "^4.14.195",
     "d3-scale": "^4.0.2",
     "dagre": "^0.8.5",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "paper": "^0.12.17",
     "perfect-arrows": "^0.3.7",
     "reduce-css-calc": "^2.1.8",
